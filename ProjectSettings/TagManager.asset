@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Environment
+    uniqueID: 2696193735
+    locked: 0
+  - name: Props
+    uniqueID: 2409211317
+    locked: 0
+  - name: TileMaps
+    uniqueID: 464343251
+    locked: 0
+  - name: Hero
+    uniqueID: 1327141715
+    locked: 0
